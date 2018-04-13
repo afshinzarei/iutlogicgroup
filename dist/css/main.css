@@ -97,7 +97,7 @@ ul.menu {
 #main-menu li ul {
     margin: 0px -40px 0 0px !important;
 }
-#page-header h4,#page-header h5{
+#page-header h4,h2,#page-header h5{
     margin: 0;
     text-align: center;
     font-weight: bold;
@@ -122,4 +122,7 @@ ul{
 #important_notice{
     color: tomato;
     font-size: large;
+}
+.red-text{
+    color: red;
 }
